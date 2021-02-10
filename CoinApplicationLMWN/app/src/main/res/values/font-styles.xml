@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="textNameStyle">
+        <item name="android:textSize">22sp</item>
+        <item name="android:lineSpacingExtra">1sp</item>
+        <item name="fontWeight">700</item>
+    </style>
+</resources>
